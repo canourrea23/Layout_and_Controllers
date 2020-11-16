@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/canourrea23/Layout_and_Controllers/issues"
   },
-  "homepage": "https://github.com/canourrea23/Layout_and_Controllers#readme"
+  "homepage": "https://github.com/canourrea23/Layout_and_Controllers#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
 }
